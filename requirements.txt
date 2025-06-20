@@ -1,0 +1,9 @@
+Django>=5.1.2
+djangorestframework
+djangorestframework-simplejwt
+python-decouple
+celery
+redis
+requests
+python-telegram-bot==13.15
+ngrok
