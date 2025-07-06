@@ -19,3 +19,4 @@ djangorestframework-simplejwt==5.4.0
 channels==4.2.0
 channels_redis==4.2.1
 daphne==4.1.2
+dotenv
