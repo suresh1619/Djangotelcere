@@ -10,3 +10,4 @@ django-heroku
 gunicorn
 whitenoise
 psycopg2
+pyTelegramBotAPI
