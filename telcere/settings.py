@@ -38,7 +38,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'rstapi.urls'
+ROOT_URLCONF = 'telcere.urls'
 
 TEMPLATES = [
     {
@@ -56,7 +56,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'rstapi.wsgi.application'
+WSGI_APPLICATION = 'telcere.wsgi.application'
 
 CORS_ALLOW_ALL_ORIGINS = True
 
