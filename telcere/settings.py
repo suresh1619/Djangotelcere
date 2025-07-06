@@ -29,7 +29,10 @@ DEBUG = False
 ALLOWED_HOSTS = [
     "localhost",
     "127.0.0.1",
-    "ce0a-103-215-237-193.ngrok-free.app"
+    "ce0a-103-215-237-193.ngrok-free.app",
+    'djangotelcere.onrender.com',
+    '*',
+    
 ]
 
 
